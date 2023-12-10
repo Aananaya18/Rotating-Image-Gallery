@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Father's Day Special</title>
+  <link rel="stylesheet" href="app.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="container">
+    <nav>
+      <h1>HAPPY FATHER'S DAY</h1>
+    </nav>
+       
+  </header>
+  <div class="box">
+    <span style="--i:1;"><img src="img1.jpeg" height="200px" width="500px"></span>
+    <span style="--i:2;"><img src="img2.jpeg" height="200px" width="500px"></span>
+    <span style="--i:3;"><img src="img3.jpeg" height="200px" width="500px"></span>
+    <span style="--i:4;"><img src="img4.jpeg" height="200px" width="500px"></span>
+    <span style="--i:5;"><img src="img5.jpeg" height="200px" width="500px"></span>
+    <span style="--i:6;"><img src="img6.jpeg" height="200px" width="500px"></span>
+    <span style="--i:8;"><img src="img8.jpeg" height="200px" width="500px"></span>
+    <span style="--i:9;"><img src="img9.jpeg" height="200px" width="500px"></span>
+    <span style="--i:10;"><img src="img10.jpeg" height="200px" width="500px"></span>
+    <span style="--i:11;"><img src="img11.jpeg" height="200px" width="500px"></span>
+    <span style="--i:12;"><img src="img12.jpeg" height="200px" width="500px"></span>
+  </div>
+
+    <audio autoplay>
+      <source src="music.mp3" type="audio/mpeg">
+    </audio>
+ 
+  
+  
+</body>
+</html>
